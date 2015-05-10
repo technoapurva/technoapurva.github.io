@@ -474,6 +474,10 @@ height: 650px;
     text-transform: capitalize;
 }
 
+.project_title{
+    font-size: 26px;
+}
+
 .top_left_cont p {
 font-size: 18px;
 color: #FFFFFF;
@@ -2359,6 +2363,7 @@ margin:0;
 h2, .contact_section h2 {
 font-size: 30px;
 }
+
 .page_section.contact {
 padding: 60px 0 50px;
 } 
