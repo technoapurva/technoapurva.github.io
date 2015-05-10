@@ -1257,7 +1257,18 @@ transition: all .3s;
 .gplus a:hover {
     color: #dd4b39;
 }
- 
+
+.linkedin a:hover {
+	color: rgba(110, 178, 212, 1);
+}
+
+.youtube a:hover {
+	color: rgba(203, 24, 30, 1);
+}
+
+.skype a:hover {
+	color: rgba(0, 174, 239, 1);
+}
 
 .form {
     margin: 0 66px 0 30px;
