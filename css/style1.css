@@ -487,7 +487,7 @@ text-align: center;
 letter-spacing: 1px;
 }
 
-a.read_more, a.read_more2 {
+a.read_more, a.read_more2, a.read_more3 {
     font-family: 'Raleway', sans-serif;
     display: block;
     font-size: 20px;
@@ -514,6 +514,11 @@ a.read_more{
 a.read_more2:hover, a.read_more:hover {
     background: #FFFFFF;
     color: #F74C4C;
+    border: 1px solid #FFFFFF;
+}
+a.read_more3:hover {
+    background: #FFFFFF;
+    color: #0A1525;
     border: 1px solid #FFFFFF;
 }
 a.read_more:hover {
@@ -2401,6 +2406,9 @@ width: 100%;
 width: 99%;
 }
 .read_more2{
+display:none;
+}
+.read_more3{
 display:none;
 }
 }
