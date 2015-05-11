@@ -2356,7 +2356,8 @@ padding: 11px 0;
 display: inline-block;
 }
 .social_links li {
-float: left; 
+	float: none;
+	display: inline; 
 }
 .contact_section{
 margin:0;
