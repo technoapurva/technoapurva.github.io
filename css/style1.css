@@ -2322,6 +2322,10 @@ color: #FFF;
 line-height: 39px;
 margin: 0 0 9px 0;
 }
+.top_left_cont h2 strong {
+    font-size: 20px;
+	line-height: 70px;
+}
 .inner_section {
 padding: 20px 0 20px;
 }
